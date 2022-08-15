@@ -1,2 +1,1 @@
-# IT007.L21.KHCL
-Practice
+Các assignments và projects môn Hệ Điều Hành
